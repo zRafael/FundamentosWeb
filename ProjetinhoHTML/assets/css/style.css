@@ -68,3 +68,11 @@ h1 {
 .div-contato {
     margin-left: 50px;
 }
+
+#nome {
+    width: 100%;
+}
+
+#email {
+    width: 100%;
+}
